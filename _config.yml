@@ -24,6 +24,7 @@ include: ["_pages"]
 collections_dir: _collections
 
 # Build settings
+destination: "docs"
 markdown: kramdown
 plugins:
   - jekyll-feed
