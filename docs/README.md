@@ -8,8 +8,6 @@ Built with:
 - [Jekyll Docs](https://jekyllrb.com/docs/)
 
 ## How to edit
-Navigate to the `gh-pages` branch in the repo. You can also access it directly through [this link](https://github.com/SASE-Drexel/mentorship-profiles/tree/gh-pages)
-
 Mentor and mentee profiles are stored in `.md` files under the `/collections` folder. Each file is rendered onto a template under `_layouts/post.html`
 
 The entire website is built upon the html templates found in `_layouts` and `_includes`. To move content around, edit the HTML tags in those folders and rebuild the site.
