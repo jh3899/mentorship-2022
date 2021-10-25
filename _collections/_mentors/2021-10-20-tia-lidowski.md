@@ -38,5 +38,5 @@ I think that both my academic and career experience will help me to provide good
 I would hope to be both a friend and a mentor to my mentee -- I want to be able to help them with their academic and career goals and provide advice and support when they need, but be able to develop a friendship also!
 
 <div class="text-center my-5">
-    <img src=""assets/images/tia-lidowski.JPG" alt="Tia Lidowski" class="rounded post-img" />
+    <img src="assets/images/tia-lidowski.JPG" alt="Tia Lidowski" class="rounded post-img" />
 </div>
