@@ -38,5 +38,5 @@ Anyway they may need! Whether that be co-op search, understanding class content,
 Friendly! I'm always down to hang out :D
 
 <div class="text-center my-5">
-    <img src=""assets/images/azra-gallano.jpg" alt="Azra Gallano" class="rounded post-img" />
+    <img src="assets/images/azra-gallano.jpg" alt="Azra Gallano" class="rounded post-img" />
 </div>
