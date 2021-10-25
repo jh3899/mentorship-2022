@@ -26,5 +26,5 @@ None
 I don't really have a preference but if I had to have an opinion then I would like someone that will help me professionally and for it to be someone that I am acquainted with.
 
 <div class="text-center my-5">
-    <img src="{ ../anthony-huu.jpeg | absolute_url }" alt="Anthony Huu Hoang" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/anthony-huu.jpeg" alt="Anthony Huu Hoang" class="rounded post-img" />
 </div>

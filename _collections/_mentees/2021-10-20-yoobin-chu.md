@@ -26,5 +26,5 @@ None
 I just want help navigating through Drexel like what courses/teachers are good to take for my plan of study, how to be active on campus, ways to make connections/reach out to the right people, etc. 
 
 <div class="text-center my-5">
-    <img src="{ ../yoobin-chu.jpg | absolute_url }" alt="Yoobin Chu" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/yoobin-chu.jpg" alt="Yoobin Chu" class="rounded post-img" />
 </div>

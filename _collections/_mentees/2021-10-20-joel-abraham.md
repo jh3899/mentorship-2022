@@ -26,5 +26,5 @@ Science in general (cars, dinosaurs, how something is made/how something works),
 Someone I can just ask questions(particularly stupid things about like school stuff I don’t want to ask others), someone that can help professionally like making a resume and applying for jobs and networking
 
 <div class="text-center my-5">
-    <img src="{ ../assets/images/joel-abraham.jpeg | absolute_url }" alt="Joel Abraham" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/joel-abraham.jpeg" alt="Joel Abraham" class="rounded post-img" />
 </div>
