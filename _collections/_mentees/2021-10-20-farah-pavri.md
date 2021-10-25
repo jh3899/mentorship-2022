@@ -26,5 +26,5 @@ I am interested in animals, robotics, engineering, psychology (mainly the part o
 I would like to find someone who is either working in biomechanics, working with animals but still incorporates their engineering degree into their work, someone who is currently research or creating prosthetics, or someone who is working in some kind of a robotics lab that mainly specializes in robotic arms. It would also be helpful for me to find someone who is working on a project that deals with neurons in the brain and how each neuron affects bodily movement. Such as when so and so neurons are fired, the left pinky is lifted up.
 
 <div class="text-center my-5">
-    <img src="assets/images/farah-pavri.jpeg" alt="Farah Pavri" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/farah-pavri.jpeg" alt="Farah Pavri" class="rounded post-img" />
 </div>
