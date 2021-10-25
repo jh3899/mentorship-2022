@@ -2,7 +2,7 @@
 layout: post
 title: Andrew Bui 
 date: 2021-10-20
-image: assets/images/andrew-bui.jpg
+image: assets/images/andrew-bui.jpeg
 about: I'm a pretty big nerd, but I like to think I have a social life. When I need to be, I am hardworking and focused. However, I am a somewhat outgoing person who likes to relax and have a fun time as well.
 year: Pre-Junior
 major: Computer Science
@@ -38,5 +38,5 @@ I want to create a close relationship with my Mentee where they can see me as a 
 I envision the relationship to be foremost a friendship. I can provide advice and support as an upperclassman, but we're still equals. We can spend time together both during and outside of SASE events, getting to know each other and having a relationship that will last.
 
 <div class="text-center my-5">
-    <img src="{ "https://sase-drexel.github.io/mentorship-2021/assets/images/andrew-bui.jpg" | absolute_url }" alt="Andrew Bui" class="rounded post-img" />
+    <img src="{ "https://sase-drexel.github.io/mentorship-2021/assets/images/andrew-bui.jpeg" | absolute_url }" alt="Andrew Bui" class="rounded post-img" />
 </div>

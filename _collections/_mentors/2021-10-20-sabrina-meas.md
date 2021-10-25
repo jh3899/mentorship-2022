@@ -2,7 +2,7 @@
 layout: post
 title: Sabrina Meas 
 date: 2021-10-20
-image: assets/images/sabrina-meas.jpg
+image: assets/images/sabrina-meas.JPG
 about: Hi! Hello! As seen in my profile, my name is Sabrina! I am Chinese-Cambodian - born in Philly but moved around a lot. I'm a pretty social and open person, and I enjoy spending time to get to know people whether it's a random conversation or a deep one. I'm also quite extroverted, so don't get scared if I decide to walk up to you to start a conversation, LOLL :) 
 year: Sophomore
 major: Computer Science
@@ -38,5 +38,5 @@ I honestly think the main thing to remember when mentoring a SASE Mentee is to b
 I want to be a friend but also like an older sibling who you can get advice from, be comfortable around, and talk to about anything. We could have the most stupidest conversations with weird jokes but also have deep talks about life tingsss just cuz we all have so much going on! I'll win you plushies at roundone or grab food with you or be your personal photographer ;)
 
 <div class="text-center my-5">
-    <img src="{ "https://sase-drexel.github.io/mentorship-2021/assets/images/sabrina-meas.jpg" | absolute_url }" alt="Sabrina Meas" class="rounded post-img" />
+    <img src="{ "https://sase-drexel.github.io/mentorship-2021/assets/images/sabrina-meas.JPG" | absolute_url }" alt="Sabrina Meas" class="rounded post-img" />
 </div>

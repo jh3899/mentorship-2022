@@ -2,7 +2,7 @@
 layout: post
 title: Linda Chen 
 date: 2021-10-20
-image: assets/images/linda-chen.jpg
+image: assets/images/linda-chen.JPG
 about: I am introverted but I do like to socialize. I care a lot about friendships and would do anything in my power to help a friend out. I honestly like to hang out with others whether we are studying or just casually chatting. 
 year: Pre-Junior
 major: Nursing
@@ -38,5 +38,5 @@ Professionally can be using my connections to help my mentee. I also do want to 
 As friends or a source of professional help. 
 
 <div class="text-center my-5">
-    <img src="{ "https://sase-drexel.github.io/mentorship-2021/assets/images/linda-chen.jpg" | absolute_url }" alt="Linda Chen" class="rounded post-img" />
+    <img src="{ "https://sase-drexel.github.io/mentorship-2021/assets/images/linda-chen.JPG" | absolute_url }" alt="Linda Chen" class="rounded post-img" />
 </div>

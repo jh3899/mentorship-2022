@@ -2,7 +2,7 @@
 layout: post
 title: Joyce Jiang 
 date: 2021-10-20
-image: assets/images/joyce-jiang.HEIC
+image: assets/images/joyce-jiang.jpg
 about: I am a freshman at drexel and I major in nursing. I like listening to kpop and dying my hair to destress. I really like fruit teas :) and eating desserts.
 year: Freshman
 major: nursing
@@ -26,5 +26,5 @@ I like to binge kdramas, anime, and manga during my free time. I also like liste
 Not anything in particular but maybe someone who is good at starting conversations because it takes me a while to get comfortable with people(apologies in advance).
 
 <div class="text-center my-5">
-    <img src="{ "https://sase-drexel.github.io/mentorship-2021/assets/images/joyce-jiang.HEIC" | absolute_url }" alt="Joyce Jiang" class="rounded post-img" />
+    <img src="{ "https://sase-drexel.github.io/mentorship-2021/assets/images/joyce-jiang.jpg" | absolute_url }" alt="Joyce Jiang" class="rounded post-img" />
 </div>
