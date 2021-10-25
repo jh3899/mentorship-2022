@@ -26,5 +26,5 @@ Digital art, reading (mostly anything online, manga, webtoons, light novels), mo
 I'm currently on co-op so someone who can give me good tips on the campus and eateries, and places to hang. A friend would definitely be nice!
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/harmony-do.jpg" alt="Harmony Do" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/harmony-do.jpg" alt="Harmony Do" class="rounded post-img" />
 </div>

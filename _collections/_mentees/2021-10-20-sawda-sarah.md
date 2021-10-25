@@ -27,5 +27,5 @@ I love going to concerts, Binge watching Netflix shows, and spending time with m
 I am looking for a mentor that can introduce me to a different feels within the business world.
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/sawda-sarah.jpeg" alt="Sawda Sarah" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/sawda-sarah.jpeg" alt="Sawda Sarah" class="rounded post-img" />
 </div>

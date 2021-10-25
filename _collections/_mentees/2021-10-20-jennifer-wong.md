@@ -26,5 +26,5 @@ Hobbies include anything music related, finding new places to go to, watching Ne
 Probably someone who was shaky/unsure (career-wise) going into their first year. It'd be great if they could talk about the activities on campus and how I, as a commuter, can get more involved as well. I'd say I'm fine academically though I wouldn't mind a little extra help in a class like English.  
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/jennifer-wong.jpeg" alt="Jennifer Wong" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/jennifer-wong.jpeg" alt="Jennifer Wong" class="rounded post-img" />
 </div>

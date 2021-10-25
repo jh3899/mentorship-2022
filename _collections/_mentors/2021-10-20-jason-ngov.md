@@ -38,5 +38,5 @@ I want to be a point of contact for my mentee and be someone they can lean on fo
 Casual friendship where we can learn and grow from our experiences together. 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/jason-ngov.jpg" alt="Jason Ngov" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/jason-ngov.jpg" alt="Jason Ngov" class="rounded post-img" />
 </div>
