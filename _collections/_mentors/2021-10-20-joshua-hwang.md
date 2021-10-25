@@ -38,5 +38,5 @@ I plan to mentor my SASE mentee by being someone who they can openly come to for
 I envision that we become and stay good friends over the years through Drexel and that I become someone that they can consistently depend on for advice or just to hang out.
 
 <div class="text-center my-5">
-    <img src="{ ../joshua-hwang.JPG | absolute_url }" alt="Joshua Hwang" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/joshua-hwang.JPG" alt="Joshua Hwang" class="rounded post-img" />
 </div>

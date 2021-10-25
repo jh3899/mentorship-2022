@@ -26,5 +26,5 @@ I'll just say what I put as I was describing myself. I like to run, code, study 
 I'm looking for a mentor who can help me with my professional career. I want to talk to someone in my fields of interest so I can learn from them. For instance, learning about writing a really good resume would be a fantastic opportunity that a mentor can help with.
 
 <div class="text-center my-5">
-    <img src="{ ../assets/images/andy-nguyen.png | absolute_url }" alt="Andy Nguyen" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/andy-nguyen.png" alt="Andy Nguyen" class="rounded post-img" />
 </div>

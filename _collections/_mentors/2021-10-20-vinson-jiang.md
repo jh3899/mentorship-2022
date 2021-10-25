@@ -39,5 +39,5 @@ I plan to mentor my SASE Mentee as someone that they can look to if they have a 
 I envision my relationship with my mentee as more of a friendship. Being able to be a resource to help with anything Drexel or life related as well as be a friend to my mentee.
 
 <div class="text-center my-5">
-    <img src="{ ../vinson-jiang.JPG | absolute_url }" alt="Vinson Jiang" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/vinson-jiang.JPG" alt="Vinson Jiang" class="rounded post-img" />
 </div>

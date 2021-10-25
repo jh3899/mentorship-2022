@@ -26,5 +26,5 @@ I love listening to music mostly rn&b and rap/pop but I'll listen to anything bu
 I'm looking for both friendship and academic help if possible. Someone I can talk to casually but can also offer academic advice. If both together aren't possible, either a personal or Academic  mentor is fine too! 
 
 <div class="text-center my-5">
-    <img src="{ ../isha-kothari.jpeg | absolute_url }" alt="Isha Kothari " class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/isha-kothari.jpeg" alt="Isha Kothari " class="rounded post-img" />
 </div>
