@@ -38,5 +38,5 @@ The relationship I would like to have with my SASE mentee would be dependent on 
 I envision it to be supportive, and as casual or professional as my mentee would like it to be. Ultimately this is aimed to help them grow and improve.
 
 <div class="text-center my-5">
-    <img src="{ "https://sase-drexel.github.io/mentorship-2021/assets/images/becky-jiang.jpg" | absolute_url }" alt="Becky Jiang" class="rounded post-img" />
+    <img src="{ https://sase-drexel.github.io/mentorship-2021/assets/images/becky-jiang.jpg | absolute_url }" alt="Becky Jiang" class="rounded post-img" />
 </div>

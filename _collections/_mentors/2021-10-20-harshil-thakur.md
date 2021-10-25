@@ -38,5 +38,5 @@ I plan to help them with whatever they might need help with. I can help in plann
 I envision a very casual and friendly relationship. I will be there to guide them through their academic and professional experience. I can help them whether it is just for simple homework or class question or something like application process for different programs like Aspire or STAR. 
 
 <div class="text-center my-5">
-    <img src="{ "https://sase-drexel.github.io/mentorship-2021/assets/images/harshil-thakur.JPG" | absolute_url }" alt="Harshil Thakur" class="rounded post-img" />
+    <img src="{ https://sase-drexel.github.io/mentorship-2021/assets/images/harshil-thakur.JPG | absolute_url }" alt="Harshil Thakur" class="rounded post-img" />
 </div>

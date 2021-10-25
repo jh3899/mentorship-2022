@@ -26,5 +26,5 @@ Academically, I like Math and History. Hobbies include playing sports, watching 
 I want someone that had a similar experience as me coming into Drexel. Someone that had Engineering Undeclared as their major first. I want to know what sparked their desire to choose the major they decided to go for and why. I want to learn about their co-op experiences.
 
 <div class="text-center my-5">
-    <img src="{ "assets/images/jiejun-hou.png" | absolute_url }" alt="Jiejun Hou" class="rounded post-img" />
+    <img src="{ "assets/images/jiejun-hou.png | absolute_url }" alt="Jiejun Hou" class="rounded post-img" />
 </div>

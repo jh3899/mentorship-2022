@@ -38,5 +38,5 @@ I plan to mentor my mentee by meeting with them and checking in on them regularl
 I would like to have a fun and open relationship with my mentee where we feel comfortable  having different conversation and hanging out with each other.
 
 <div class="text-center my-5">
-    <img src="{ "https://sase-drexel.github.io/mentorship-2021/assets/images/caroline-wang.jpg" | absolute_url }" alt="Caroline Wang" class="rounded post-img" />
+    <img src="{ https://sase-drexel.github.io/mentorship-2021/assets/images/caroline-wang.jpg | absolute_url }" alt="Caroline Wang" class="rounded post-img" />
 </div>

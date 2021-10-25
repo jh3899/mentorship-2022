@@ -38,5 +38,5 @@ I would hope to do regular check-ins with my mentee, whether it be via text or i
 I see it as being kinda spontaneous, but like in the best way possible haha! I don't want our relationship to feel forced upon, but of course I will ALWAYS be there for my mentee! I'm super supportive and down to meet up how ever often my mentee wants to whether it be to ask questions or to just hangout.
 
 <div class="text-center my-5">
-    <img src="{ "https://sase-drexel.github.io/mentorship-2021/assets/images/dylan-luong.jpg" | absolute_url }" alt="Dylan Luong" class="rounded post-img" />
+    <img src="{ https://sase-drexel.github.io/mentorship-2021/assets/images/dylan-luong.jpg | absolute_url }" alt="Dylan Luong" class="rounded post-img" />
 </div>

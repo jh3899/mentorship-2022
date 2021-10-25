@@ -26,5 +26,5 @@ I enjoy playing Valorant and recently have been interested in chess.
 A personal/friend relationship. Someone who I can just talk to and chill with. It would be nice if they can offer some advice as well.
 
 <div class="text-center my-5">
-    <img src="{ "https://sase-drexel.github.io/mentorship-2021/assets/images/javis-george.JPG" | absolute_url }" alt="Javis George" class="rounded post-img" />
+    <img src="{ https://sase-drexel.github.io/mentorship-2021/assets/images/javis-george.JPG | absolute_url }" alt="Javis George" class="rounded post-img" />
 </div>

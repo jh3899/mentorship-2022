@@ -27,5 +27,5 @@ I listen/keep up with kpop casually, and I'm trying to get into gaming (League).
 I tend to shy away from starting new things and venturing outside my comfort zone, so it'd be nice if my mentor was someone who could give me a push outside of it. I'd like to be able to ask for advice about how to approach things when I'm lost or unsure, and to learn from them about anything at all, really. But really, I'd like my mentor to be someone I can be friends with. 
 
 <div class="text-center my-5">
-    <img src="{ "https://sase-drexel.github.io/mentorship-2021/assets/images/sophia-chen.JPG" | absolute_url }" alt="Sophia Chen" class="rounded post-img" />
+    <img src="{ https://sase-drexel.github.io/mentorship-2021/assets/images/sophia-chen.JPG | absolute_url }" alt="Sophia Chen" class="rounded post-img" />
 </div>

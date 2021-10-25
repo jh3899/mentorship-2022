@@ -26,5 +26,5 @@ My main interests are video games, cooking, audio technology, anime, and music. 
 I am looking for a mentor that I can talk to about both serious things and not-so-serious things. Someone who can put up with my dumb questions because I tend to have a lot. I also want to improve my time management and networking skills. Most importantly, I want someone to get hotpot with.
 
 <div class="text-center my-5">
-    <img src="{ "https://sase-drexel.github.io/mentorship-2021/assets/images/christopher-wi.jpeg" | absolute_url }" alt="Christopher Wi" class="rounded post-img" />
+    <img src="{ https://sase-drexel.github.io/mentorship-2021/assets/images/christopher-wi.jpeg | absolute_url }" alt="Christopher Wi" class="rounded post-img" />
 </div>

@@ -26,5 +26,5 @@ My hobbies include drawing, painting, and video editing if I'm feeling creative 
 I'm looking for a genuine friendship where we can feel comfortable around each other and talk about anything- whether it be academic related or something completely random. I can also be very lost/indecisive sometimes so someone who can guide me and give me academic/career advice would be amazing. 
 
 <div class="text-center my-5">
-    <img src="{ "https://sase-drexel.github.io/mentorship-2021/assets/images/michelle-le.jpg" | absolute_url }" alt="Michelle Le" class="rounded post-img" />
+    <img src="{ https://sase-drexel.github.io/mentorship-2021/assets/images/michelle-le.jpg | absolute_url }" alt="Michelle Le" class="rounded post-img" />
 </div>

@@ -38,5 +38,5 @@ I plan to be there for my mentee with whatever they need, whether it comes to pr
 I envision my relationship with my mentee to be pretty close. I had aa wonderful experience with my mentor and I hope to provide the same thing to my mentee. I want the relationship to be more like a friendship than a mentor mentee relationship but honestly, I'm fine with whatever makes my mentee comfortable. 
 
 <div class="text-center my-5">
-    <img src="{ "https://sase-drexel.github.io/mentorship-2021/assets/images/angel-trach.jpg" | absolute_url }" alt="Angel Trach" class="rounded post-img" />
+    <img src="{ https://sase-drexel.github.io/mentorship-2021/assets/images/angel-trach.jpg | absolute_url }" alt="Angel Trach" class="rounded post-img" />
 </div>

@@ -26,5 +26,5 @@ The engineering major with only creative hobbies; cooking, art, and music take u
 I'm looking for an upperclassman that is in engineering primarily since it seems to be a program with a lot of dropouts/transfers. I'm a little nervous about doing my major and would like someone that has been there and can help me academically (especially with some of the heavier math courses) and mentally.
 
 <div class="text-center my-5">
-    <img src="{ "https://sase-drexel.github.io/mentorship-2021/assets/images/ned-elshafi.png" | absolute_url }" alt="Ned Elshafi" class="rounded post-img" />
+    <img src="{ https://sase-drexel.github.io/mentorship-2021/assets/images/ned-elshafi.png | absolute_url }" alt="Ned Elshafi" class="rounded post-img" />
 </div>
