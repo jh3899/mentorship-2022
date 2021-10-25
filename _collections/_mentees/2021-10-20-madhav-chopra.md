@@ -26,5 +26,5 @@ None
 I look forward a mentor who who can just help me to socialize, advanced professionally, academically and personally. I also look forward to participate more in sase through my mentor. I would love to learn from their experience and their time at drexel so that I can do the best and extract the maximum for my time at this place. 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/madhav-chopra.jpg" alt="Madhav Chopra" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/madhav-chopra.jpg" alt="Madhav Chopra" class="rounded post-img" />
 </div>

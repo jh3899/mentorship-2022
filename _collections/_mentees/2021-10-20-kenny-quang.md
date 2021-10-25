@@ -26,5 +26,5 @@ I like to play video games, the occasional reading, and chess. Also I do like me
 Someone who can give me advice in personal/social things when I need it, as well as professionally if need be. Mostly looking for a friend type relationship and someone to talk to and have fun.
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/kenny-quang.jpg" alt="Kenny Quang" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/kenny-quang.jpg" alt="Kenny Quang" class="rounded post-img" />
 </div>

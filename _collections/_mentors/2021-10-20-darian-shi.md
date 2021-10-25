@@ -38,5 +38,5 @@ I plan to mentor my SASE Mentee by offering them access to any resources that I 
 I hope to have a relaxed and close friendship with my mentee, being able to offer them my knowledge and experience but also learn from them as well.
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/darian-shi.jpg" alt="Darian Shi" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/darian-shi.jpg" alt="Darian Shi" class="rounded post-img" />
 </div>

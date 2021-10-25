@@ -26,5 +26,5 @@ I recently gotten into many hobbies during of Quarantine, but I really want to g
 For a mentor, I want someone who is relatable and easy to talk to for me who can guild or give me tips for going through life in college. 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/minghui-li.jpg" alt="Minghui Li" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/minghui-li.jpg" alt="Minghui Li" class="rounded post-img" />
 </div>

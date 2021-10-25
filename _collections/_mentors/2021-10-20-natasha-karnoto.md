@@ -38,5 +38,5 @@ I want to be sure that I aim to check-in/hangout with them at least once a month
 Someone who can become like my little brother/sister/sibling who I would hang out with if they are also down to 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/natasha-karnoto.jpg" alt="Natasha Karnoto" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/natasha-karnoto.jpg" alt="Natasha Karnoto" class="rounded post-img" />
 </div>

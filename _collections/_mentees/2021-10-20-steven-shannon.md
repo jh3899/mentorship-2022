@@ -26,5 +26,5 @@ I am interested in a lot of Asian entertainment such as anime, manga, light nove
 I am looking for a mixture of all three in my mentor- professional, academic, and personal. The first two is more so just to help me with my studies and to help me understand the co-op process. However, I am primarily looking for a personal mentor, someone who shares the same interests as I do and someone to hang out with. 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/steven-shannon.jpg" alt="Steven Shannon" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/steven-shannon.jpg" alt="Steven Shannon" class="rounded post-img" />
 </div>
