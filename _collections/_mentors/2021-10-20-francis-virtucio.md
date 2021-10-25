@@ -38,5 +38,5 @@ I plan to hang out with them in whatever capacity they'd like, whether it be bru
 I'm hoping to have a flexible relationship with my mentee! We'll hang out just as friends do, and deciding when those hangs will happen will simply be up to conversation. If you want to grab boba and talk about interview tips next week, or meet up to play tennis tomorrow morning, just ask! A balanced lifestyle is important to me, so I'm aiming to be just as much a companion as I am a mentor.
 
 <div class="text-center my-5">
-    <img src="{ "https://sase-drexel.github.io/mentorship-2021/assets/images/francis-virtucio.JPG" | absolute_url }" alt="Francis Virtucio" class="rounded post-img" />
+    <img src="{ https://sase-drexel.github.io/mentorship-2021/assets/images/francis-virtucio.JPG | absolute_url }" alt="Francis Virtucio" class="rounded post-img" />
 </div>

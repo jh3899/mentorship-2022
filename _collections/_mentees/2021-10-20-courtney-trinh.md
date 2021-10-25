@@ -26,5 +26,5 @@ I like reading webtoons and baking cakes and cookies.  I occasionally play recre
 I would like someone who can help me with forming better study techniques for math and science courses.  Or someone who could help me navigate engineering in general.  But overall it would be great to have someone who can guide me through the college and Drexel experience and be someone I can turn to for help with anything.
 
 <div class="text-center my-5">
-    <img src="{ "https://sase-drexel.github.io/mentorship-2021/assets/images/courtney-trinh.jpeg" | absolute_url }" alt="Courtney Trinh" class="rounded post-img" />
+    <img src="{ https://sase-drexel.github.io/mentorship-2021/assets/images/courtney-trinh.jpeg | absolute_url }" alt="Courtney Trinh" class="rounded post-img" />
 </div>

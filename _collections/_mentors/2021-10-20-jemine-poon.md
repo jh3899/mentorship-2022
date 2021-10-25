@@ -38,5 +38,5 @@ Most likely through texts and a few in person meet ups, maybe grab some food tog
 I hope to be good friends and to be able to share my experiences with them and to encourage them on their college journey.
 
 <div class="text-center my-5">
-    <img src="{ "https://sase-drexel.github.io/mentorship-2021/assets/images/jemine-poon.jpg" | absolute_url }" alt="Jemine Poon" class="rounded post-img" />
+    <img src="{ https://sase-drexel.github.io/mentorship-2021/assets/images/jemine-poon.jpg | absolute_url }" alt="Jemine Poon" class="rounded post-img" />
 </div>

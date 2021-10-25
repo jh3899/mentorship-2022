@@ -42,5 +42,5 @@ Everybody is different so I don't have a plan! I would say I did pretty good at 
 It can be anything from a friendship or mostly academic. No plans. 
 
 <div class="text-center my-5">
-    <img src="{ "https://sase-drexel.github.io/mentorship-2021/assets/images/frank-yang.jpg" | absolute_url }" alt="Frank Yang" class="rounded post-img" />
+    <img src="{ https://sase-drexel.github.io/mentorship-2021/assets/images/frank-yang.jpg | absolute_url }" alt="Frank Yang" class="rounded post-img" />
 </div>

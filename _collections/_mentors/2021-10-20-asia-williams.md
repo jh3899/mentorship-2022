@@ -38,5 +38,5 @@ As i've stated, I'd love to pass down some advice I have from trial and error. I
 As an upperclassman that they can go to if they need advice or help but also as a friend. 
 
 <div class="text-center my-5">
-    <img src="{ "https://sase-drexel.github.io/mentorship-2021/assets/images/asia-williams.jpg" | absolute_url }" alt="Asia Williams" class="rounded post-img" />
+    <img src="{ https://sase-drexel.github.io/mentorship-2021/assets/images/asia-williams.jpg | absolute_url }" alt="Asia Williams" class="rounded post-img" />
 </div>
