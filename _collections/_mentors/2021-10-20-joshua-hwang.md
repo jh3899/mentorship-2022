@@ -2,7 +2,7 @@
 layout: post
 title: Joshua Hwang 
 date: 2021-10-20
-image: assets/images/joshua-hwang.jpg
+image: assets/images/joshua-hwang.JPG
 about:  Some basic information about me is that I'm from Cupertino,California and I'm a second year student in CS. My favorite places to be is in the outdoors especially in nature preserves and beaches. I would describe myself as a mellow, outgoing, social person that finds joy in making close connections with people.
 year: Sophomore
 major: CS
@@ -38,5 +38,5 @@ I plan to mentor my SASE mentee by being someone who they can openly come to for
 I envision that we become and stay good friends over the years through Drexel and that I become someone that they can consistently depend on for advice or just to hang out.
 
 <div class="text-center my-5">
-    <img src="{ "https://sase-drexel.github.io/mentorship-2021/assets/images/joshua-hwang.jpg" | absolute_url }" alt="Joshua Hwang" class="rounded post-img" />
+    <img src="{ "https://sase-drexel.github.io/mentorship-2021/assets/images/joshua-hwang.JPG" | absolute_url }" alt="Joshua Hwang" class="rounded post-img" />
 </div>

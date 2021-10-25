@@ -2,7 +2,7 @@
 layout: post
 title: Andrea Eleazar 
 date: 2021-10-20
-image: assets/images/andrea-eleazar.jpg
+image: assets/images/andrea-eleazar.jpeg
 about: I'm a quiet and adventurous introvert who likes to stay in and play games on my Switch, watch anime while eating mangoes, or decorate my planner; you might also find me on walks catching PokÃ©mon or grabbing boba with friends. I'm studious, passionate about learning, and an orch dork, so school-life balance is a constant work in progress. Always in some type of crisis because I'm indecisive and a ~certified overthinker~. Though I'm a bit awkward and reserved, I'm pretty chill and enjoy good memes.
 year: Junior
 major: Public Health
@@ -38,5 +38,5 @@ I hope to make myself available for my mentee both virtually and in-person and p
 A relationship that is casual, comfortable, yet fruitful. As a mentor, I'm open to sharing my college experiences and advice; however, I hope that our relationship becomes a genuine friendship where we can grab food, study to lofi music, play games, send random memes, and just chat about life together!
 
 <div class="text-center my-5">
-    <img src="{ "https://sase-drexel.github.io/mentorship-2021/assets/images/andrea-eleazar.jpg" | absolute_url }" alt="Andrea Eleazar" class="rounded post-img" />
+    <img src="{ "https://sase-drexel.github.io/mentorship-2021/assets/images/andrea-eleazar.jpeg" | absolute_url }" alt="Andrea Eleazar" class="rounded post-img" />
 </div>

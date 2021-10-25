@@ -2,7 +2,7 @@
 layout: post
 title: Vinson Jiang 
 date: 2021-10-20
-image: assets/images/vinson-jiang.jpg
+image: assets/images/vinson-jiang.JPG
 about: I am a chill and outgoing person that wants to try new things and find new experiences in life. I typically have a good laugh about everything and not take things seriously. I also like a good meme when I see one.
 year: Pre-Junior
 major: Computer Science
@@ -39,5 +39,5 @@ I plan to mentor my SASE Mentee as someone that they can look to if they have a 
 I envision my relationship with my mentee as more of a friendship. Being able to be a resource to help with anything Drexel or life related as well as be a friend to my mentee.
 
 <div class="text-center my-5">
-    <img src="{ "https://sase-drexel.github.io/mentorship-2021/assets/images/vinson-jiang.jpg" | absolute_url }" alt="Vinson Jiang" class="rounded post-img" />
+    <img src="{ "https://sase-drexel.github.io/mentorship-2021/assets/images/vinson-jiang.JPG" | absolute_url }" alt="Vinson Jiang" class="rounded post-img" />
 </div>
