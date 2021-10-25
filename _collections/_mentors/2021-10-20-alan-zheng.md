@@ -38,5 +38,5 @@ I hope to answer any questions they might have and just be another friendly pers
 I lasting friendly relationship.
 
 <div class="text-center my-5">
-    <img src="{ "assets/images/alan-zheng.jpg" | absolute_url }" alt="Alan Zheng" class="rounded post-img" />
+    <img src="{ "https://sase-drexel.github.io/mentorship-2021/assets/images/alan-zheng.jpg" | absolute_url }" alt="Alan Zheng" class="rounded post-img" />
 </div>

@@ -40,5 +40,5 @@ Would like to have a give and take relationship where we can reach out and talk 
 A relationship where we're both equals and can learn from each other. I hope that we can hang out, gaming, or finding new food spots.
 
 <div class="text-center my-5">
-    <img src="{ "assets/images/matthew-taing.jpg" | absolute_url }" alt="Matthew Taing" class="rounded post-img" />
+    <img src="{ "https://sase-drexel.github.io/mentorship-2021/assets/images/matthew-taing.jpg" | absolute_url }" alt="Matthew Taing" class="rounded post-img" />
 </div>

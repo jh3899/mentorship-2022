@@ -38,5 +38,5 @@ I plan on being someone my mentee would be able to talk to freely. If they were 
 I envision my relationship to be something very easy and lighthearted. I want to be able to bond with my mentee without having to pressure them to be committed to their mentor. I want them to be able to come to me when they need help and talk to me whenever they want. 
 
 <div class="text-center my-5">
-    <img src="{ "assets/images/asycurie-lombestova.jpg" | absolute_url }" alt="Asycurie Lombestova" class="rounded post-img" />
+    <img src="{ "https://sase-drexel.github.io/mentorship-2021/assets/images/asycurie-lombestova.jpg" | absolute_url }" alt="Asycurie Lombestova" class="rounded post-img" />
 </div>

@@ -26,5 +26,5 @@ I like watching Kdrama.
 I'm looking for a friend that can help me through this process doesn't matter if it's academic or personal. Both would be great though. 
 
 <div class="text-center my-5">
-    <img src="{ "assets/images/jackson-xu.jpg" | absolute_url }" alt="Jackson Xu" class="rounded post-img" />
+    <img src="{ "https://sase-drexel.github.io/mentorship-2021/assets/images/jackson-xu.jpg" | absolute_url }" alt="Jackson Xu" class="rounded post-img" />
 </div>

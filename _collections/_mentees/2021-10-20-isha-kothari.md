@@ -2,7 +2,7 @@
 layout: post
 title: Isha Kothari  
 date: 2021-10-20
-image: assets/images/isha-kothari.jpg
+image: assets/images/isha-kothari.jpeg
 about: I'm a bit of an introvert but once I get to know someone I can open up to them easily. I love to learn about new things and I'm very open-minded. I'm not sure what else to say about myself but I would consider myself easy to talk to and chill! 
 year: Freshman
 major: Computer Science 
@@ -26,5 +26,5 @@ I love listening to music mostly rn&b and rap/pop but I'll listen to anything bu
 I'm looking for both friendship and academic help if possible. Someone I can talk to casually but can also offer academic advice. If both together aren't possible, either a personal or Academic  mentor is fine too! 
 
 <div class="text-center my-5">
-    <img src="{ "assets/images/isha-kothari.jpg" | absolute_url }" alt="Isha Kothari " class="rounded post-img" />
+    <img src="{ "https://sase-drexel.github.io/mentorship-2021/assets/images/isha-kothari.jpeg" | absolute_url }" alt="Isha Kothari " class="rounded post-img" />
 </div>

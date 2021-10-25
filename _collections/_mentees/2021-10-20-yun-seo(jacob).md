@@ -2,7 +2,7 @@
 layout: post
 title: Yun Seo(Jacob) Hur 
 date: 2021-10-20
-image: assets/images/yun-seo(jacob).jpg
+image: assets/images/jacob-hur.jpg
 about: Hello! My name is Yun Seo Hur but you can just call me by my English name Jacob. I am a sophomore following the pre-med track as a chemistry major in Drexel University. My goal is to become a surgeon in the future. I am the oldest of three siblings and was born in South Korea (Cool fact- my baby sister is only 4 years old). I love staying active and like to play almost all sports. I also like to listen/play music in my free time. Although I might be a little bit shy at first, I love meeting and making new friends. I enjoy hanging out with friends a lot and consider those times to be very valuable. I am looking to meet many new people from SASE and hope that I get to make a lot of friends. 
 year: Sophomore
 major: Chemistry 
@@ -26,5 +26,5 @@ I love sports and music. I have tried all kinds of sports from joining the track
 I am personally looking for a mentor that I could be friends with. Coming back from the pandemic, it was rather hard meeting new people because of the long isolation time everyone had to experience. I feel like this mentor/mentee program is great for getting to know new people and making new friends. I would also like it if my mentor could also help me with some of my academic classes. For example, physics. I have no idea what is going on in that class. 
 
 <div class="text-center my-5">
-    <img src="{ "assets/images/yun-seo(jacob).jpg" | absolute_url }" alt="Yun Seo(Jacob) Hur" class="rounded post-img" />
+    <img src="{ "https://sase-drexel.github.io/mentorship-2021/assets/images/jacob-hur.jpg" | absolute_url }" alt="Yun Seo(Jacob) Hur" class="rounded post-img" />
 </div>
