@@ -38,5 +38,5 @@ I hope to offer them any answers to questions they have when it comes to Drexel,
 I hope to be someone they can always go to when in need of some advice or just to be someone for them to talk to. I also hope we'll be able to talk freely about personal things and have a good relationship so they feel supported!
 
 <div class="text-center my-5">
-    <img src="{ https://sase-drexel.github.io/mentorship-2021/assets/images/jenny-tsui.jpg | absolute_url }" alt="Jenny Tsui" class="rounded post-img" />
+    <img src="{ ../jenny-tsui.jpg | absolute_url }" alt="Jenny Tsui" class="rounded post-img" />
 </div>

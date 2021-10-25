@@ -38,5 +38,5 @@ alejfajfajkef;ajkefka idkkkk somehow that's for sure …if i need a real answer 
 Anything! I'm not sure how much co-op advice I can give, but I can do my best to help you academically. Or if you just want a friend :)
 
 <div class="text-center my-5">
-    <img src="{ https://sase-drexel.github.io/mentorship-2021/assets/images/jacqueline-guan.jpg | absolute_url }" alt="Jacqueline Guan" class="rounded post-img" />
+    <img src="{ ../jacqueline-guan.jpg | absolute_url }" alt="Jacqueline Guan" class="rounded post-img" />
 </div>

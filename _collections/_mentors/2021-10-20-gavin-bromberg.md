@@ -38,5 +38,5 @@ I'm not entirely sure because the way I would mentor an individual would be enti
 Not sure. I haven't done this before, so we'll have to see. It could become quite close, or it could be strictly professional.
 
 <div class="text-center my-5">
-    <img src="{ https://sase-drexel.github.io/mentorship-2021/assets/images/gavin-bromberg.jpg | absolute_url }" alt="Gavin Bromberg" class="rounded post-img" />
+    <img src="{ ../gavin-bromberg.jpg | absolute_url }" alt="Gavin Bromberg" class="rounded post-img" />
 </div>

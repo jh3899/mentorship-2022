@@ -26,5 +26,5 @@ None
 I am looking for a mentor who can help me professionally and academically, but having another friend is always nice.
 
 <div class="text-center my-5">
-    <img src="{ https://sase-drexel.github.io/mentorship-2021/assets/images/nicolo-agbayani.jpg | absolute_url }" alt="Nicolo Agbayani" class="rounded post-img" />
+    <img src="{ ../nicolo-agbayani.jpg | absolute_url }" alt="Nicolo Agbayani" class="rounded post-img" />
 </div>

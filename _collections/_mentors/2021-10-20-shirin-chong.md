@@ -38,5 +38,5 @@ Boba dates. I'll pay. But they have to only drink my recommendations.
 I want to be friends with them and be a strong support system for them. 
 
 <div class="text-center my-5">
-    <img src="{ https://sase-drexel.github.io/mentorship-2021/assets/images/shirin-chong.jpeg | absolute_url }" alt="Shirin Chong" class="rounded post-img" />
+    <img src="{ ../shirin-chong.jpeg | absolute_url }" alt="Shirin Chong" class="rounded post-img" />
 </div>
