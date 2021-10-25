@@ -2,7 +2,7 @@
 layout: post
 title: Harsha Sureshbabu 
 date: 2021-10-20
-image: assets/images/harsha-sureshbabu.jpg
+image: assets/images/harsha-sureshbabu.PNG
 about: I'm a sophomore. I was born in India but lived in the US for the last 8ish years. I like meeting new people and discovering new things. I'm a pretty chill dude who loves to socialize.
 year: Sophomore
 major: Business and Engineering
@@ -26,5 +26,5 @@ I spend most of my time listening to different types of music. I love watching m
 I wish to connect with someone who is as ambitious and fun as I am. Someone who is open and willing to communicate. Having similar interests would make communicating much easier.
 
 <div class="text-center my-5">
-    <img src="{ "assets/images/harsha-sureshbabu.jpg" | absolute_url }" alt="Harsha Sureshbabu" class="rounded post-img" />
+    <img src="{ "https://sase-drexel.github.io/mentorship-2021/assets/images/harsha-sureshbabu.PNG" | absolute_url }" alt="Harsha Sureshbabu" class="rounded post-img" />
 </div>

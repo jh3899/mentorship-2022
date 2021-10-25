@@ -38,5 +38,5 @@ I would try keeping in contact with them as much as possible, and if they play a
 I hope to have a relationship where we can bug each other at who knows what time of day and talk about the most random things. I don't want to be a mentor, but also someone that my mentee can trust and feel comfortable about the current situation and transitioning into Drexel.
 
 <div class="text-center my-5">
-    <img src="{ "assets/images/katelyn-huong.jpg" | absolute_url }" alt="Katelyn Huong" class="rounded post-img" />
+    <img src="{ "https://sase-drexel.github.io/mentorship-2021/assets/images/katelyn-huong.jpg" | absolute_url }" alt="Katelyn Huong" class="rounded post-img" />
 </div>
