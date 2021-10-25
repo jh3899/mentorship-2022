@@ -38,5 +38,5 @@ I want to create a close relationship with my Mentee where they can see me as a 
 I envision the relationship to be foremost a friendship. I can provide advice and support as an upperclassman, but we're still equals. We can spend time together both during and outside of SASE events, getting to know each other and having a relationship that will last.
 
 <div class="text-center my-5">
-    <img src="{ https://sase-drexel.github.io/mentorship-2021/assets/images/andrew-bui.jpeg | absolute_url }" alt="Andrew Bui" class="rounded post-img" />
+    <img src="{ ../andrew-bui.jpeg | absolute_url }" alt="Andrew Bui" class="rounded post-img" />
 </div>

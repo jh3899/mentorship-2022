@@ -38,5 +38,5 @@ I plan to just get to know them, and then be there whenever they need me to revi
 It would be more like a friendship than a mentorship, as I am very new to the role of being a mentor...
 
 <div class="text-center my-5">
-    <img src="{ https://sase-drexel.github.io/mentorship-2021/assets/images/kenn-chong.jpg | absolute_url }" alt="Kenn Chong" class="rounded post-img" />
+    <img src="{ ../kenn-chong.jpg | absolute_url }" alt="Kenn Chong" class="rounded post-img" />
 </div>

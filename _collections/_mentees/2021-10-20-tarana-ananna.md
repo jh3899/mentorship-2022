@@ -26,5 +26,5 @@ None
 I would love to have a mentor who would become my buddy and just give me general advice. 
 
 <div class="text-center my-5">
-    <img src="{ https://sase-drexel.github.io/mentorship-2021/assets/images/tarana-ananna.jpg | absolute_url }" alt="Tarana Ananna " class="rounded post-img" />
+    <img src="{ ../tarana-ananna.jpg | absolute_url }" alt="Tarana Ananna " class="rounded post-img" />
 </div>

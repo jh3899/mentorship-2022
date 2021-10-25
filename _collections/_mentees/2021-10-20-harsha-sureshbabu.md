@@ -26,5 +26,5 @@ I spend most of my time listening to different types of music. I love watching m
 I wish to connect with someone who is as ambitious and fun as I am. Someone who is open and willing to communicate. Having similar interests would make communicating much easier.
 
 <div class="text-center my-5">
-    <img src="{ https://sase-drexel.github.io/mentorship-2021/assets/images/harsha-sureshbabu.PNG | absolute_url }" alt="Harsha Sureshbabu" class="rounded post-img" />
+    <img src="{ ../harsha-sureshbabu.PNG | absolute_url }" alt="Harsha Sureshbabu" class="rounded post-img" />
 </div>

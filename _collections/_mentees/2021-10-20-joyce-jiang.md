@@ -26,5 +26,5 @@ I like to binge kdramas, anime, and manga during my free time. I also like liste
 Not anything in particular but maybe someone who is good at starting conversations because it takes me a while to get comfortable with people(apologies in advance).
 
 <div class="text-center my-5">
-    <img src="{ https://sase-drexel.github.io/mentorship-2021/assets/images/joyce-jiang.jpg | absolute_url }" alt="Joyce Jiang" class="rounded post-img" />
+    <img src="{ ../joyce-jiang.jpg | absolute_url }" alt="Joyce Jiang" class="rounded post-img" />
 </div>

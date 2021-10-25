@@ -38,5 +38,5 @@ Professionally can be using my connections to help my mentee. I also do want to 
 As friends or a source of professional help. 
 
 <div class="text-center my-5">
-    <img src="{ https://sase-drexel.github.io/mentorship-2021/assets/images/linda-chen.JPG | absolute_url }" alt="Linda Chen" class="rounded post-img" />
+    <img src="{ ../linda-chen.JPG | absolute_url }" alt="Linda Chen" class="rounded post-img" />
 </div>
