@@ -3,7 +3,7 @@ layout: post
 title: Andrea Eleazar 
 date: 2021-10-20
 image: assets/images/andrea-eleazar.jpeg
-about: I'm a quiet and adventurous introvert who likes to stay in and play games on my Switch, watch anime while eating mangoes, or decorate my planner; you might also find me on walks catching PokÃ©mon or grabbing boba with friends. I'm studious, passionate about learning, and an orch dork, so school-life balance is a constant work in progress. Always in some type of crisis because I'm indecisive and a ~certified overthinker~. Though I'm a bit awkward and reserved, I'm pretty chill and enjoy good memes.
+about: I'm a quiet and adventurous introvert who likes to stay in and play games on my Switch, watch anime while eating mangoes, or decorate my planner; you might also find me on walks catching Pokemon or grabbing boba with friends. I'm studious, passionate about learning, and an orch dork, so school-life balance is a constant work in progress. Always in some type of crisis because I'm indecisive and a ~certified overthinker~. Though I'm a bit awkward and reserved, I'm pretty chill and enjoy good memes.
 year: Junior
 major: Public Health
 
@@ -11,7 +11,7 @@ major: Public Health
 
 ### About
 
-I'm a quiet and adventurous introvert who likes to stay in and play games on my Switch, watch anime while eating mangoes, or decorate my planner; you might also find me on walks catching PokÃ©mon or grabbing boba with friends. I'm studious, passionate about learning, and an orch dork, so school-life balance is a constant work in progress. Always in some type of crisis because I'm indecisive and a ~certified overthinker~. Though I'm a bit awkward and reserved, I'm pretty chill and enjoy good memes.
+I'm a quiet and adventurous introvert who likes to stay in and play games on my Switch, watch anime while eating mangoes, or decorate my planner; you might also find me on walks catching Pokemon or grabbing boba with friends. I'm studious, passionate about learning, and an orch dork, so school-life balance is a constant work in progress. Always in some type of crisis because I'm indecisive and a ~certified overthinker~. Though I'm a bit awkward and reserved, I'm pretty chill and enjoy good memes.
 
 ### Why Do I Want To Be a SASE Mentor?
 
@@ -27,7 +27,7 @@ None
 
 ### Interests
 
-I've been playing violin for 14 years (thereforeâ€¦orch dork). I listen to kpop (too much), jpop, lofi, and game/film OSTs. I like anime/kdramas and video games (e.g. Zelda, Fire Emblem, PokÃ©mon, Xenoblade, Cookie Run, recently Genshin). I'm a big foodie and love trying new foods and boba spots â€“ milk tea or yakult are my go-tos! I also enjoy writing; I'm into stationery and mechanical keyboards and am always trying to create the perfect desk setup. 
+I've been playing violin for 14 years (therefore... orch dork). I listen to kpop (too much), jpop, lofi, and game/film OSTs. I like anime/kdramas and video games (e.g. Zelda, Fire Emblem, Pokemon, Xenoblade, Cookie Run, recently Genshin). I'm a big foodie and love trying new foods and boba spots - milk tea or yakult are my go-tos! I also enjoy writing; I'm into stationery and mechanical keyboards and am always trying to create the perfect desk setup. 
 
 ### What to Expect From Me
 
