@@ -31,7 +31,7 @@ I like to do art like calligraphy or bullet journaling or graphic design! I love
 
 ### What to Expect From Me
 
-alejfajfajkef;ajkefka idkkkk somehow that's for sure …if i need a real answer for this lmk
+I'm pretty chill and I'm just here for a good time! I would love a friend but I can also give co-op and class advice! I'm pretty easy going and flexible, so pick me if you just want a chill time!
 
 ### How I Envision My Relationship With My Mentee(s) 
 
