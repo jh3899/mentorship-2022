@@ -3,9 +3,9 @@ layout: post
 title: Steven Nguyen 
 date: 2022-10-20
 image: assets/images/Steven_Nguyen - Steven Nguyen.jpg
-about: I am from Glen Mills, PA, which is around 45 minutes from the campus. I came into Drexel because of its excellent co-op and computing program, being in the city of Philadelphia, and navigating an urban campus.
-I joined SASE because I want to connect with club members of similar backgrounds, prepare for my future classes and co-ops, and have fun! Besides SASE, I am also a member of ASA, JUSA, and a couple of CCI clubs.
-A fun fact about myself is I took Taekwondo from sixth through ninth grade and got a first-degree black belt.
+about: "I am from Glen Mills, PA, which is around 45 minutes from the campus. I came into Drexel because of its excellent co-op and computing program, being in the city of Philadelphia, and       navigating an urban campus.
+        I joined SASE because I want to connect with club members of similar backgrounds, prepare for my future classes and co-ops, and have fun! Besides SASE, I am also a member of ASA, JUSA, and a couple of CCI clubs.
+        A fun fact about myself is I took Taekwondo from sixth through ninth grade and got a first-degree black belt."
 year: Freshman
 major: Undeclared - CCI
 

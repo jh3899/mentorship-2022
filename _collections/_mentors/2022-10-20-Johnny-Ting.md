@@ -3,10 +3,10 @@ layout: post
 title: Johnny Ting 
 date: 2022-10-20
 image: assets/images/Johnny_Ting - Johnny Ting.jpg
-about: I like to go on adventures
-Chill and spontaneous
-I sometimes say silly things
-I am adventurous 
+about: "I like to go on adventures
+        Chill and spontaneous
+        I sometimes say silly things
+        I am adventurous"
 year: Senior
 major: Mechanical Engineering
 

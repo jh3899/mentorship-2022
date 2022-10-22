@@ -5,7 +5,7 @@ date: 2022-10-20
 image: assets/images/Christine_Su - Christine Su.jpg
 about: You will know me when you know me 😁✌🏻
 year: Pre-Junior
-major: International Business, Co-major: Technology Innovation Management
+major: "International Business, Co-major: Technology Innovation Management"
 
 ---
 

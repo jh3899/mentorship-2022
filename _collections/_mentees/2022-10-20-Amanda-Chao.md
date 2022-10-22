@@ -3,7 +3,7 @@ layout: post
 title: Amanda Chao 
 date: 2022-10-20
 image: assets/images/Amanda_Chao - Amanda Chao.jpg
-about: I'm a bit introverted at first but once I'm more comfortable I can be sort of chaotic. I can be fairly fidgety when I'm nervous. When it comes to getting to know people sometimes I ask for music recommendations so I can get to know people better. Oh I also have a pretty big sweet tooth. I'm always down to get snacks : ))
+about: "I'm a bit introverted at first but once I'm more comfortable I can be sort of chaotic. I can be fairly fidgety when I'm nervous. When it comes to getting to know people sometimes I ask for music recommendations so I can get to know people better. Oh I also have a pretty big sweet tooth. I'm always down to get snacks : ))"
 year: Sophomore
 major: Health Sciences
 

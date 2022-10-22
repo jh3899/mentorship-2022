@@ -3,9 +3,9 @@ layout: post
 title: Sophia Chen 
 date: 2022-10-20
 image: assets/images/Sophia_Chen - Sophia Chen.jpg
-about: Hello hello, I'm Sophia!
-I'd consider myself a pretty easygoing and chill person, but I'm also spontaneous and love to hype people up. Mindset-wise, I do quite a bit of introspective thinking and reflection, and I'm always trying to improve myself as a person. 
-Chilling and going out to eat is always fun, but I do also want to touch more grass, so I'm always down to try something new :)  
+about: "Hello hello, I'm Sophia!
+        I'd consider myself a pretty easygoing and chill person, but I'm also spontaneous and love to hype people up. Mindset-wise, I do quite a bit of introspective thinking and reflection, and I'm always trying to improve myself as a person. 
+        Chilling and going out to eat is always fun, but I do also want to touch more grass, so I'm always down to try something new :)"
 year: Sophomore
 major: Biomedical Engineering
 
