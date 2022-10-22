@@ -26,5 +26,5 @@ I love listening to music; I am open to any genres and appreciate any and all mu
 I think of a mentor as someone who can sort of act as a guide through Drexel, and offer tips and advice along the way. It would also be extremely helpful if they are able to offer academic help (whether it be with studying or class tips), and professional help regarding the different career fields, interviews, etc.
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Tiffany-Khuu.jpg" alt="Tiffany Khuu" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Tiffany_Khuu.jpg" alt="Tiffany Khuu" class="rounded post-img" />
 </div>

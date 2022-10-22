@@ -27,5 +27,5 @@ I enjoy many hobbies but lately the ones that take my time the most are cooking 
 What I look for in a mentor is who could help me professionally and academically wise. I would like to have someone that could assist me while I apply for coops and prepare myself to apply for internships externally. I would also want someone that would help me learn more about computer science and programming outside of the school curriculum. I would like to be able;e to consult what I can do better on a personal project or help me find the solution for a problem.
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Charles-Wu.jpg" alt="Charles Wu" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Charles_Wu.jpg" alt="Charles Wu" class="rounded post-img" />
 </div>

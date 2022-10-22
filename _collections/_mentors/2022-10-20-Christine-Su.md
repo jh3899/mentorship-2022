@@ -2,10 +2,10 @@
 layout: post
 title: Christine Su 
 date: 2022-10-20
-image: assets/images/Christine-Su - Christine Su.jpg
+image: assets/images/Christine_Su - Christine Su.jpg
 about: You will know me when you know me 😁✌🏻
 year: Pre-Junior
-major: "International Business, Co-major: Technology Innovation Management"
+major: International Business, Co-major: Technology Innovation Management
 
 ---
 
@@ -38,5 +38,5 @@ I plan to mainly just be there for them when they need 😊 Be a friend. I hope 
 Friendly relationship
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Christine-Su.jpg" alt="Christine Su" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Christine_Su.jpg" alt="Christine Su" class="rounded post-img" />
 </div>

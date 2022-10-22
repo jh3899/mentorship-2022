@@ -2,7 +2,7 @@
 layout: post
 title: Nicolo Agbayani 
 date: 2022-10-20
-image: assets/images/Nicolo-Agbayani - Nicolo Agbayani.jpg
+image: assets/images/Nicolo_Agbayani - Nicolo Agbayani.jpg
 about: I am a pretty chill guy that gets along with most people. When I'm not busy you can probably find me at the Korman Center. Feel free to hit me up on Discord or Instagram whenever! I definitely get enough sleep at night
 year: Sophomore
 major: Computer Science
@@ -38,5 +38,5 @@ Career oriented activities such as resume reviews or helping with classwork are 
 We could hang out and do stuff often or just talk whenever they need help; I'm all for helping out in whatever way my mentee is most comfortable with
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Nicolo-Agbayani.jpg" alt="Nicolo Agbayani" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Nicolo_Agbayani.jpg" alt="Nicolo Agbayani" class="rounded post-img" />
 </div>

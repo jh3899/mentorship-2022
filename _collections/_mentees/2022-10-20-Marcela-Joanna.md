@@ -26,5 +26,5 @@ I can speak around 5 languages and I play 3 instruments. Something pretty cool a
 I hope to have someone that I can go to for help academically as well as personally. College has been a hard shift for me from high school, so I'm hoping to be able to open up to my mentor. 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Marcela_Siahaan.jpg" alt="Marcela Joanna Siahaan" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Marcela_Siahaan.jpg" alt="Marcela Siahaan" class="rounded post-img" />
 </div>

@@ -2,7 +2,7 @@
 layout: post
 title: Alain Nguyen 
 date: 2022-10-20
-image: assets/images/Alain-Nguyen - Alain Nguyen.jpg
+image: assets/images/Alain_Nguyen - Alain Nguyen.jpg
 about: I am 6'. I finally been able to poop once a day, but i want to try to poop twice a day. Sometimes I get sleep paralysis if I lay on my back. I like to look a furniture.
 year: Senior
 major: Business
@@ -40,5 +40,5 @@ I guess i'll be like being supportive and stuff. If you need emotional support t
 I would be someone to talk to any time, this'd be something more social but I can support with professional development if needed 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Alain-Nguyen.jpg" alt="Alain Nguyen" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Alain_Nguyen.jpg" alt="Alain Nguyen" class="rounded post-img" />
 </div>

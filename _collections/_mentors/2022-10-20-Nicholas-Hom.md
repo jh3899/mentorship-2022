@@ -2,7 +2,7 @@
 layout: post
 title: Nicholas Hom 
 date: 2022-10-20
-image: assets/images/Nicholas-Hom - Nicholas Hom.jpg
+image: assets/images/Nicholas_Hom - Nicholas Hom.jpg
 about: I am usually quiet, but if you get to know me I like to talk and learn about people's different hobbies. I enjoy trying new things and keep myself busy.
 year: Junior
 major: Computer Science
@@ -38,5 +38,5 @@ I plan to give them random advice and answer any questions they might have, and 
 Good friends that hang out sometimes
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Nicholas-Hom.jpg" alt="Nicholas Hom" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Nicholas_Hom.jpg" alt="Nicholas Hom" class="rounded post-img" />
 </div>

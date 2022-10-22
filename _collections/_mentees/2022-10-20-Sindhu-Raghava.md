@@ -26,5 +26,5 @@ None
 I want someone who can guide me in different areas of business or medicine and help me figure out what I want to do as a career.
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Sindhu-Raghava.jpg" alt="Sindhu Raghava" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Sindhu_Raghava.jpg" alt="Sindhu Raghava" class="rounded post-img" />
 </div>

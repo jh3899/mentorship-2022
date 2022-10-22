@@ -2,7 +2,7 @@
 layout: post
 title: Raymond Nguyen 
 date: 2022-10-20
-image: assets/images/Raymond-Nguyen - Raymond Nguyen.jpg
+image: assets/images/Raymond_Nguyen - Raymond Nguyen.jpg
 about: Down to break a few bones to try something new
 year: Junior
 major: Computer Science
@@ -38,5 +38,5 @@ Give advice, review resume, guide them through interview process
 Chill
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Raymond-Nguyen.jpg" alt="Raymond Nguyen" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Raymond_Nguyen.jpg" alt="Raymond Nguyen" class="rounded post-img" />
 </div>

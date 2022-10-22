@@ -2,7 +2,7 @@
 layout: post
 title: Ben Nguyen 
 date: 2022-10-20
-image: assets/images/Ben-Nguyen - Ben Nguyen.jpg
+image: assets/images/Ben_Nguyen - Ben Nguyen.jpg
 about: I am 2nd year majoring computer science. I love listening to music in my free time especially Kpop (If you need any girl group song recommendations I got you!). I also play a lot of games like League, Valorant and Genshin Impact. I might look very antisocial but once you get to know me, I will be more out going.
 year: Sophomore
 major: Computer Science
@@ -38,5 +38,5 @@ I would love to teach my mentee with the knowledge that I know as well as making
 I am respect my mentee choice, but I hope that my mentee won't just see me as a teacher who advise them but also a friend who they can rely on as they continue their path in Drexel.
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Ben-Nguyen.jpg" alt="Ben Nguyen" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Ben_Nguyen.jpg" alt="Ben Nguyen" class="rounded post-img" />
 </div>

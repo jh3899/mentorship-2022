@@ -26,5 +26,5 @@ I like volleyball, cars and am attempting calisthenics, bugs, and weird history 
 I want to hang out 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Joel-Abraham.jpg" alt="Joel Abraham" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Joel_Abraham.jpg" alt="Joel Abraham" class="rounded post-img" />
 </div>

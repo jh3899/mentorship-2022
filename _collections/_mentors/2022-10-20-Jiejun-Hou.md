@@ -2,7 +2,7 @@
 layout: post
 title: Jiejun Hou 
 date: 2022-10-20
-image: assets/images/Jiejun-Hou - Jiejun Hou.jpg
+image: assets/images/Jiejun_Hou - Jiejun Hou.jpg
 about: Hey, I'm Jiejun! you may call me JJ as well. I choose Computer Engineering because I like to tinker with computer parts. My Cantonese is like a 1st grader since I came to the US when I was 4. I enjoy talking about technology and history as well as current events (bless Wikipedia)
 year: Sophomore
 major: Computer Engineering
@@ -38,5 +38,5 @@ To make my mentee succeed academically, I would be an advisor as to which profes
 We would be good friends! I would just check up on them through text or social media. If they feel like asking a question, they can hit me up too! 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Jiejun-Hou.jpg" alt="Jiejun Hou" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Jiejun_Hou.jpg" alt="Jiejun Hou" class="rounded post-img" />
 </div>

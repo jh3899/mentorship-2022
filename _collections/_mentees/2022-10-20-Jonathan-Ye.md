@@ -26,5 +26,5 @@ None
 I would like to have a mentor to help me with my academic and personal problems, and I would also like to seek various kinds of advice. I would like to also know my mentor outside of being a mentor and more as a friend. 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Jonathan-Ye.jpg" alt="Jonathan Ye " class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Jonathan_Ye.jpg" alt="Jonathan Ye " class="rounded post-img" />
 </div>

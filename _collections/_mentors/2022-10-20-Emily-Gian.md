@@ -2,7 +2,7 @@
 layout: post
 title: Emily Gian 
 date: 2022-10-20
-image: assets/images/Emily-Gian - Emily Gian.jpg
+image: assets/images/Emily_Gian - Emily Gian.jpg
 about: I'm a senior doing BS/MS for MechE. I've decided to switch into project management and looking into more product management jobs. I like to embroider & other art things, gym, play different sports(tennis is my favorite), and mostly try new things out. 
 year: Senior
 major: MechE
@@ -39,5 +39,5 @@ I can give a combination of academics, professional, and personal guidance. I ca
 I see a good friendship where I can help them in whatever way they needed. Hope to really get to know them and be someone they can go to for academic, professional, and personal advice.
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Emily-Gian.jpg" alt="Emily Gian" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Emily_Gian.jpg" alt="Emily Gian" class="rounded post-img" />
 </div>

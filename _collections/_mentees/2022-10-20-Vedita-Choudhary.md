@@ -26,5 +26,5 @@ Apart from tirelessly working towards my goal I don't really find myself interes
 Anyone who shares the same spirit of excelling as me. I really enjoy mindful discussions on enriching topics so, whoever would be interested in that because those makeup 90% of the conversations I have. I am not really seeking any help in something specific just an experienced individual who can help me navigate my path through college and career. Someone willing to invest their time in providing academic and professional guidance as well as exchanging ideas.
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Vedita-Choudhary.jpg" alt="Vedita Choudhary " class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Vedita_Choudhary.jpg" alt="Vedita Choudhary " class="rounded post-img" />
 </div>

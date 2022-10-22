@@ -2,7 +2,7 @@
 layout: post
 title: Asycurie Lombestova 
 date: 2022-10-20
-image: assets/images/Asycurie-Lombestova - Asycurie Lombestova.jpg
+image: assets/images/Asycurie_Lombestova - Asycurie Lombestova.jpg
 about: I am a pretty outgoing person who is down to do anything! I love eating out and going on mini adventures. I also really enjoy watching anime and spending money on overpriced coffee. :3
 year: Senior
 major: Health Sciences
@@ -38,5 +38,5 @@ I plan on mentoring my SASE Mentee by being someone who is able to listen to the
 I envision our relationship as a good friendship. I want them to be able talk to me about anything and be down to hang out together, but I also want to be able to help give them opportunities to grow -- both professionally and in character. I've been on Eboard for both ASA and Sigmas, so I feel I can guide them and encourage them to pursue different leadership opportunities that may be presented to them. I want my Mentee to be able to talk to me when they are feeling down or happy. 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Asycurie-Lombestova.jpg" alt="Asycurie Lombestova" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Asycurie_Lombestova.jpg" alt="Asycurie Lombestova" class="rounded post-img" />
 </div>

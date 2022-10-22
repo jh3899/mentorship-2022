@@ -26,5 +26,5 @@ tbh I'm a jack of all trades, master of none. I like petting dogs. Also if you n
 I'd like to have a person that could provide a review/editing process for resumes and internship applications, as well as a person that loves to network with others. I'm also open to casual convos about life.
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Francis-Nguyen.jpg" alt="Francis Nguyen" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Francis_Nguyen.jpg" alt="Francis Nguyen" class="rounded post-img" />
 </div>

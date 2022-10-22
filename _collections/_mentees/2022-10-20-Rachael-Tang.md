@@ -26,5 +26,5 @@ I'm very obsessed with Harry Potter and all of its sorts. I also enjoy playing F
 I really like friends, I like smart people that can answer all my questions(because I have a lot of questions), and someone I can talk to and relate to.
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Rachael-Tang.jpg" alt="Rachael Tang" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Rachael_Tang.jpg" alt="Rachael Tang" class="rounded post-img" />
 </div>

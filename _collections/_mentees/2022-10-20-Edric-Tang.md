@@ -26,5 +26,5 @@ Playing games, exploring new places, hanging out with friends, trying new food p
 A friend, someone who can guide me through life like Master Shifu did to Po. Maybe like Splinter to the TMNT or Sensei Wu in Ninjago. Also looking for someone who is willing to help me if I have questions. A plus if they can carry me in Valorant because I suck in Valorant. 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Edric-Tang.jpg" alt="Edric Tang" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Edric_Tang.jpg" alt="Edric Tang" class="rounded post-img" />
 </div>

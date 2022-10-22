@@ -26,5 +26,5 @@ I like playing volleyball, watching dramas, learning Chinese history, keeping up
 Someone who is personable and able to make me be more social. Someone who is generally in the know about some of the happenings around campus. Someone who is aware of different opportunities (academic, career, social) that could be interesting/useful. 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Brian-Ngov.jpg" alt="Brian Ngov" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Brian_Ngov.jpg" alt="Brian Ngov" class="rounded post-img" />
 </div>

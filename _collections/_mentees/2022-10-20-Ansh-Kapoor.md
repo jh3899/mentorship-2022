@@ -32,5 +32,5 @@ Designing sleek solutions, imagining possibilities for refinement and applying l
 The one who motivates everyone. He/ she should strive to do his/her utmost in each and every situation and would set a good benchmark for others to follow. 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Ansh-Kapoor.jpg" alt="Ansh Kapoor" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Ansh_Kapoor.jpg" alt="Ansh Kapoor" class="rounded post-img" />
 </div>

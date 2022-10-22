@@ -26,5 +26,5 @@ Fun
 Fun
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Anthony-Hoang.jpg" alt="Anthony Hoang" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Anthony_Hoang.jpg" alt="Anthony Hoang" class="rounded post-img" />
 </div>

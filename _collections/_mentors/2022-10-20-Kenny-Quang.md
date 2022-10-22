@@ -2,7 +2,7 @@
 layout: post
 title: Kenny Quang 
 date: 2022-10-20
-image: assets/images/Kenny-Quang - Kenny Quang.jpg
+image: assets/images/Kenny_Quang - Kenny Quang.jpg
 about: I'm a very chill and easygoing person. Open to finding new experiences in life and just trying to get through my classes at this point. I also love memes, please send.
 year: Junior
 major: Mechanical Engineer 
@@ -38,5 +38,5 @@ Being someone that can give them advice or any general help they they may need. 
 I envision my relationship with my mentee more as a friendship, or at the very least someone that my mentee can network with. As well as being a resource and helping out with whatever I am able to. 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Kenny-Quang.jpg" alt="Kenny Quang" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Kenny_Quang.jpg" alt="Kenny Quang" class="rounded post-img" />
 </div>

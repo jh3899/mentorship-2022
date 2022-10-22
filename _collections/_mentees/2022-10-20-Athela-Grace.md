@@ -26,5 +26,5 @@ I like watching gaming videos on youtube and watching tv series on Netflix, espe
 I am looking for a mentor who will be a good, friendly guide for this org. Also, a person who I can ask about random Drexel and computer science stuff, if possible. 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Athela-Grace.jpg" alt="Athela Grace Villaruel" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Athela_Villaruel.jpg" alt="Athela Villaruel" class="rounded post-img" />
 </div>

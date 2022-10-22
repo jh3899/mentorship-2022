@@ -26,5 +26,5 @@ I’m a landscape and object photographer, but I’d love to venture into portra
 I hope my mentor is someone who is friendly, relaxed, and loves food as much as I do :)
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Yi-Huan.jpg" alt="Yi Huan Yang" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Yi_Huan_Yang.jpg" alt="Yi Huan Yang" class="rounded post-img" />
 </div>

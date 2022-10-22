@@ -2,7 +2,7 @@
 layout: post
 title: Sabrina Meas 
 date: 2022-10-20
-image: assets/images/Sabrina-Meas - Sabrina Meas.jpg
+image: assets/images/Sabrina_Meas - Sabrina Meas.jpg
 about: Hihi! My name takes after the TV show "Sabrina the Teenage Witch" ( ☹ I sadly learned that recently actually). I am Chinese-Cambodian - born in Philly but moved around a lot growing up. I'm a pretty social and open person, love having conversations from the most random to the deepest ones. 
 year: Pre-Junior
 major: Computer Science
@@ -38,5 +38,5 @@ I'm pretty chill and up for most things :) Whether it's doing work together, han
 I want to be both a mentor and a friend to my mentee. If you ever need advice about navigating through Drexel, your career, or even non-school related things, I will offer my best support! I just wanna be someone you can be comfortable and joke around with :)))
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Sabrina-Meas.jpg" alt="Sabrina Meas" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Sabrina_Meas.jpg" alt="Sabrina Meas" class="rounded post-img" />
 </div>

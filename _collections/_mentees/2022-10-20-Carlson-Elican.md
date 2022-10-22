@@ -26,5 +26,5 @@ I really enjoy talking and hanging out with people, both online and in person. I
 Just looking for a friend at the end of the day, so I more casual if that makes sense?
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Carlson-Elican.jpg" alt="Carlson Elican" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Carlson_Elican.jpg" alt="Carlson Elican" class="rounded post-img" />
 </div>

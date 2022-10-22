@@ -2,7 +2,7 @@
 layout: post
 title: Aaron Alquiros 
 date: 2022-10-20
-image: assets/images/Aaron-Alquiros - Aaron Alquiros.jpg
+image: assets/images/Aaron_Alquiros - Aaron Alquiros.jpg
 about: bread
 year: Senior
 major: Engineering Technology
@@ -38,5 +38,5 @@ None
 I'm looking for someone that can take pictures of me with food in my mouth
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Aaron-Alquiros.jpg" alt="Aaron Alquiros" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Aaron_Alquiros.jpg" alt="Aaron Alquiros" class="rounded post-img" />
 </div>

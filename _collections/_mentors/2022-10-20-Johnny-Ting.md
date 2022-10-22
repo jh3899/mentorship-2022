@@ -2,14 +2,11 @@
 layout: post
 title: Johnny Ting 
 date: 2022-10-20
-image: assets/images/Johnny-Ting - Johnny Ting.jpg
-about: "I like to go on adventures
-
+image: assets/images/Johnny_Ting - Johnny Ting.jpg
+about: I like to go on adventures
 Chill and spontaneous
-
 I sometimes say silly things
-
-I am adventurous"
+I am adventurous 
 year: Senior
 major: Mechanical Engineering
 
@@ -60,5 +57,5 @@ I can show them the world~
 We can hangout together! Talk, chill, or whatever they want to do I'll try to make time for them!
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Johnny-Ting.jpg" alt="Johnny Ting" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Johnny_Ting.jpg" alt="Johnny Ting" class="rounded post-img" />
 </div>

@@ -2,7 +2,7 @@
 layout: post
 title: Harshil Thakur 
 date: 2022-10-20
-image: assets/images/Harshil-Thakur - Harshil Thakur.jpg
+image: assets/images/Harshil_Thakur - Harshil Thakur.jpg
 about: Hey! I am Harshil and I am a pre-junior majoring in Software Engineering and minoring in Technology Innovation Management and Data Science. I can be quiet and introverted at first but I feel like I am pretty outgoing once I open up.I like to travel and explore new places and have visited many different countries. 
 year: Pre-Junior
 major: Software Engineering
@@ -38,5 +38,5 @@ I will try to be as resourceful as possible and will try to help my mentee easil
 I feel like our relationship will be very causal and friendly. We can meet on a weekly basis or whatever my mentee sees fit. We can discuss about any concerns or advice they might need and their progress towards their goal. 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Harshil-Thakur.jpg" alt="Harshil Thakur" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Harshil_Thakur.jpg" alt="Harshil Thakur" class="rounded post-img" />
 </div>

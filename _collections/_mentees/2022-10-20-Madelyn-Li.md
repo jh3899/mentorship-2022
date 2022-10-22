@@ -26,5 +26,5 @@ i like any sort of pretty art especially video game art and street art :D
 a friend haha also someone who can help me with school and show me around the city
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Madelyn-Li.jpg" alt="Madelyn Li" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Madelyn_Li.jpg" alt="Madelyn Li" class="rounded post-img" />
 </div>

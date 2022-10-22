@@ -2,7 +2,7 @@
 layout: post
 title: Albert Leung 
 date: 2022-10-20
-image: assets/images/Albert-Leung - Albert Leung.jpg
+image: assets/images/Albert_Leung - Albert Leung.jpg
 about: I would say I’m pretty chill and a down-to-earth person. I'm passionate about what I like to do and I'm goal-driven about anything I take on. I take my work seriously, but also love going out (you'll find me in Chinatown or a rave), going to the gym, and keeping myself busy with hobbies. 
 year: Senior
 major: Information Systems
@@ -38,5 +38,5 @@ I plan to mentor my mentee with the experience I gained from the past 4 years of
 I envision myself acting as a friend - someone you can come to if you want to hang, go out, or need advice/help.
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Albert-Leung.jpg" alt="Albert Leung" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Albert_Leung.jpg" alt="Albert Leung" class="rounded post-img" />
 </div>

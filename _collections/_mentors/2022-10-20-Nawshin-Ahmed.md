@@ -2,7 +2,7 @@
 layout: post
 title: Nawshin Ahmed 
 date: 2022-10-20
-image: assets/images/Nawshin-Ahmed - Nawshin Ahmed.jpg
+image: assets/images/Nawshin_Ahmed - Nawshin Ahmed.jpg
 about: Heyo! I'm Nawshin and I'm a sophomore studying Finance. If you want to know the best places to eat and waste your money, I'm your gal. I am easy to talk to but I don't always feel social in big crowds. I am ambitious, funny, cool, and I love food/boba dates. 
 year: Sophomore
 major: Finance
@@ -38,5 +38,5 @@ I want my mentee to know that I will be there for them, whether it's concerning 
 I don't want this to be just a professional relationship, I want it to be a positive friendship as well. 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Nawshin-Ahmed.jpg" alt="Nawshin Ahmed" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Nawshin_Ahmed.jpg" alt="Nawshin Ahmed" class="rounded post-img" />
 </div>

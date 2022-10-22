@@ -2,7 +2,7 @@
 layout: post
 title: Dylan Luong 
 date: 2022-10-20
-image: assets/images/Dylan-Luong - Dylan Luong.jpg
+image: assets/images/Dylan_Luong - Dylan Luong.jpg
 about: I would describe myself as ambitious, quiet, and kind. I tend to laugh at just about anything and everything I say (not because I think I'm funny, at least most times lol oops). I am an INFJ-T personality type, so I tend to be shy, but I love getting to know people!
 year: Junior
 major: Marketing, Finance, Organizational Management
@@ -39,5 +39,5 @@ I plan to be there for my mentee 24/7 for anything that they need. Granted I may
 I like to keep the mentor-mentee relationship very lowkey. I'm usually not one to schedule things with my mentees frequently because I recognize that everyone has things to do. I prefer to keep in close contact via texts every so often and overall let them decide if they would like to hangout, go to events together, etc.
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Dylan-Luong.jpg" alt="Dylan Luong" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Dylan_Luong.jpg" alt="Dylan Luong" class="rounded post-img" />
 </div>

@@ -26,5 +26,5 @@ I love working out, eating and cooking food (mainly Asian and some American cuis
 In a mentor, I am looking for some professional and academic tips since I am still very new to the college and Drexel scene. I do not have the best idea of how society and companies function yet, so having a mentor to guide me would be extremely reassuring. I am also looking for just someone to talk to too, making another friend will always be a win. 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Ricky-Chen.jpg" alt="Ricky Chen" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Ricky_Chen.jpg" alt="Ricky Chen" class="rounded post-img" />
 </div>

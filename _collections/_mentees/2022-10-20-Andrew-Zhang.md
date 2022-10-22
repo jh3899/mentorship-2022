@@ -26,5 +26,5 @@ I enjoy going to the gym, math, playing video games (PC),  learning cool skills,
 Ideally, I want a mentor who took the same courses as I did so I can ask for advise or at least be forwarded to someone who can assist me. I would also prefer someone who can offer me cool opportunities that they might have found. I don't really care about the professionalism. I just want someone who can help me succeed at Drexel.
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Andrew-Zhang.jpg" alt="Andrew Zhang" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Andrew_Zhang.jpg" alt="Andrew Zhang" class="rounded post-img" />
 </div>

@@ -2,7 +2,7 @@
 layout: post
 title: Sivakami Sivu Palaniappan 
 date: 2022-10-20
-image: assets/images/Sivakami-Sivu - Sivakami Sivu.jpg
+image: assets/images/Sivakami_Palaniappan - Sivakami Palaniappan.jpg
 about: I am from California and have never been to the east boast, which is very prevalent. I love music, dance, anime, books, and exploring. 
 year: Pre-Junior
 major: Public Health
@@ -38,5 +38,5 @@ I plan to be there for them when they need or want help with different academic 
 I want them to know that  I am someone they can rely on and someone that they can come to trust and ask for advice. 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Sivakami-Sivu.jpg" alt="Sivakami Sivu Palaniappan" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Sivakami_Palaniappan.jpg" alt="Sivakami Palaniappan" class="rounded post-img" />
 </div>

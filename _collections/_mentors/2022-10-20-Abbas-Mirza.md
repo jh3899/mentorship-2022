@@ -2,7 +2,7 @@
 layout: post
 title: Abbas Mirza 
 date: 2022-10-20
-image: assets/images/Abbas-Mirza - Abbas Mirza.jpg
+image: assets/images/Abbas_Mirza - Abbas Mirza.jpg
 about: I am always willing to learn something new and explore somewhere new. I'd consider myself an introvert but I think lately I'd like to think myself more an ambivert. Biggest cat lover you will ever meet I always carry cat food around in my bag I'll prove it. 
 year: Senior
 major: Mechanical Engineering
@@ -39,5 +39,5 @@ I plan to be the best mentor ever seen on the face of the planet. Plus I'm prett
 I am honestly not entirely sure but I do believe it would be one of mutual learning and bonding, as I have a lot to learn still about philly and the world.
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Abbas-Mirza.jpg" alt="Abbas Mirza" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Abbas_Mirza.jpg" alt="Abbas Mirza" class="rounded post-img" />
 </div>

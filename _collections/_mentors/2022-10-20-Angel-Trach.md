@@ -2,7 +2,7 @@
 layout: post
 title: Angel Trach 
 date: 2022-10-20
-image: assets/images/Angel-Trach - Angel Trach.jpg
+image: assets/images/Angel_Trach - Angel Trach.jpg
 about: Hiiiiiiii~ I'm just some random girl from California that loves exploring and trying new things. My goal is to be able to travel and visit a lot of new places but for now I just want to spend quality time with friends, meet more people, and continue to explore new places and share fun experiences with everyone. 
 year: Junior
 major: Business and Engineering
@@ -38,5 +38,5 @@ I plan to help them with whatever they need whether it be professionally, academ
 I envision my relationship with my mentee to be very chill. I want to be someone that my mentee can turn to no matter what may seem to be bothering them. I just want another person that I can provide any advice to and build a friendly relationship with. We can explore, share hobbies, and try new things :)))
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Angel-Trach.jpg" alt="Angel Trach" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Angel_Trach.jpg" alt="Angel Trach" class="rounded post-img" />
 </div>

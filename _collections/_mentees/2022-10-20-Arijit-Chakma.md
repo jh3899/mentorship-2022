@@ -26,5 +26,5 @@ I watch anime, making friends, watching soccer
 A friend and mentor who can guide and advise me both academically, professionally and personally. 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Arijit-Chakma.jpg" alt="Arijit Chakma" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Arijit_Chakma.jpg" alt="Arijit Chakma" class="rounded post-img" />
 </div>

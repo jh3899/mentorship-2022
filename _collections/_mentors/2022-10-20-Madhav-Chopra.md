@@ -2,7 +2,7 @@
 layout: post
 title: Madhav Chopra  
 date: 2022-10-20
-image: assets/images/Madhav-Chopra - Madhav Chopra.jpg
+image: assets/images/Madhav_Chopra - Madhav Chopra.jpg
 about: Fun loving, adventurous and crazy!
 year: Sophomore
 major: MIS, Business Analytics
@@ -38,5 +38,5 @@ I plan to have a good communication with my mentee and understand what they need
 As good friends!
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Madhav-Chopra.jpg" alt="Madhav Chopra " class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Madhav_Chopra.jpg" alt="Madhav Chopra " class="rounded post-img" />
 </div>

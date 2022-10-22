@@ -26,5 +26,5 @@ My interest revolve around writing poetry as it help me to express my emotions. 
 In a mentor, I look ahead to receive guidance in terms of academics like maintaining good GPA, resources and coops. I also would like to learn how my senior's journey has been and would like to receive his feedbacks on helping me figure out.
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Hitashi-Kalra.jpg" alt="Hitashi Kalra" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Hitashi_Kalra.jpg" alt="Hitashi Kalra" class="rounded post-img" />
 </div>

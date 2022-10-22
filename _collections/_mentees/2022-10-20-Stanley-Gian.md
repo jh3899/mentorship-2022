@@ -29,5 +29,5 @@ A good friend. I'm really just looking for someone who I can look up to and lear
 Not sure if you could anyway, but do NOT pair me with my sister.
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Stanley-Gian.jpg" alt="Stanley Gian" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Stanley_Gian.jpg" alt="Stanley Gian" class="rounded post-img" />
 </div>

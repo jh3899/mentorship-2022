@@ -2,7 +2,7 @@
 layout: post
 title: Sarah Yang 
 date: 2022-10-20
-image: assets/images/Sarah-Yang - Sarah Yang.jpg
+image: assets/images/Sarah_Yang - Sarah Yang.jpg
 about: I am a pretty introverted person, but once you get to know me I'm really chill and sociable! I love trying new things and eating good food. If you see me in public and I look angry, I swear that's just my face, please don't be scared of me I actually love meeting people (as long as you approach me first LOL)!
 year: Senior
 major: Computer Science
@@ -38,5 +38,5 @@ I plan on mentoring my SASE Mentee by giving career advice, telling them about c
 I envision my relationship with my mentee to be a very positive and encouraging one. We are going to be besties for life. 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Sarah-Yang.jpg" alt="Sarah Yang" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Sarah_Yang.jpg" alt="Sarah Yang" class="rounded post-img" />
 </div>

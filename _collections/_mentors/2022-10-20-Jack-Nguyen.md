@@ -2,7 +2,7 @@
 layout: post
 title: Jack Nguyen 
 date: 2022-10-20
-image: assets/images/Jack-Nguyen - Jack Nguyen.jpg
+image: assets/images/Jack_Nguyen - Jack Nguyen.jpg
 about: Hi! My name is Jack Nguyen and I'm a fourth year CS major. I would say that I am a laid-back person and easy to talk to. I enjoy going out and having fun, while also balancing my school life. I have lots of interests/hobbies, but would love to learn and experience new things!
 year: Junior
 major: Computer Science
@@ -38,5 +38,5 @@ I plan on being a helping hand for my mentee professionally, while also hanging 
 I envision a relationship that is both professional and personal. I want to be someone who my mentee can come to for help/advice, but also be someone who can be a good friend for them.
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Jack-Nguyen.jpg" alt="Jack Nguyen" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Jack_Nguyen.jpg" alt="Jack Nguyen" class="rounded post-img" />
 </div>

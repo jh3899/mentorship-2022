@@ -2,7 +2,7 @@
 layout: post
 title: James Tsai  
 date: 2022-10-20
-image: assets/images/James-Tsai - James Tsai.jpg
+image: assets/images/James_Tsai - James Tsai.jpg
 about: Very casual person. I mostly spend my time playing games, reading, and watching anime. I like to consider myself decently organized since I do schedule my workload, but freetime is wherever the winds take me.
 year: Senior
 major: Physics
@@ -38,5 +38,5 @@ Most likely help with classes I can help with, potentially give advice on genera
 Friends who complain about the hardships of university life, both undergrad and grad. Also someone you can atleast confide with.
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/James-Tsai.jpg" alt="James Tsai " class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/James_Tsai.jpg" alt="James Tsai " class="rounded post-img" />
 </div>

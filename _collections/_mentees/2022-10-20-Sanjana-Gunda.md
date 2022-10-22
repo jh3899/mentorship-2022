@@ -26,5 +26,5 @@ I enjoy making art (specifically drawing and painting), knitting, and baking (wh
 I'm looking for someone who can give me co-op and job related advice, along with advice about college in general. I also think that it's nice to be able to make a new friend at Drexel.
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Sanjana-Gunda.jpg" alt="Sanjana Gunda" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Sanjana_Gunda.jpg" alt="Sanjana Gunda" class="rounded post-img" />
 </div>

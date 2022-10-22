@@ -26,5 +26,5 @@ I enjoy playing volleyball and video games primarily, in addition to running and
 For a mentor, I'm looking for someone that's easy to ask questions to, whether it be for help in classes, or planning for future courses or co-op. Also, someone that could just generally help with surviving college life would be someone I'm looking for.
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Lawrence-Ganaban.jpg" alt="Lawrence Ganaban" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Lawrence_Ganaban.jpg" alt="Lawrence Ganaban" class="rounded post-img" />
 </div>

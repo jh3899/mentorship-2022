@@ -2,7 +2,7 @@
 layout: post
 title: Caroline Wang 
 date: 2022-10-20
-image: assets/images/Caroline-Wang - Caroline Wang.jpg
+image: assets/images/Caroline_Wang - Caroline Wang.jpg
 about: Hi! I am a fourth year biology major from northern California. I am nice and friendly, and I am always open to talk, especially after getting to know someone. I enjoy reading, napping, and watching movies, and I would love to explore more of Philly during the rest of my time here!
 year: Senior
 major: Biology
@@ -38,5 +38,5 @@ In order to mentor my SASE mentee, I plan on meeting with them to chat or do act
 I hope my relationship with my mentee can develop into a nice friendship where we feel comfortable talking to and sharing with each other. 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Caroline-Wang.jpg" alt="Caroline Wang" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Caroline_Wang.jpg" alt="Caroline Wang" class="rounded post-img" />
 </div>

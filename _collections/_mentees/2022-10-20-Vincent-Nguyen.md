@@ -26,5 +26,5 @@ I like kpop, card games, webtoons. I also watch kdramas, but I always tend to re
 Someone I can ask questions to, like questions to what classes or electives I should take etc.
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Vincent-Nguyen.jpg" alt="Vincent Nguyen" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Vincent_Nguyen.jpg" alt="Vincent Nguyen" class="rounded post-img" />
 </div>
