@@ -31,3 +31,9 @@ Navigate to `_collections/` and enter either the `_mentors` or `_mentees` direct
 2a. run `gem install bundler` if you do not already have bundler installed
 3. run `bundle install` to install repo dependencies
 4. run `bundle exec jekyll serve` -- by default the site will be built into a new folder `_docs` and hosted on `localhost:4000`
+
+
+## Jiejun Hou steps from start to finish 
+
+1. get git https://git-scm.com/downloads
+2. 
